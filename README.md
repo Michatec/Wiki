@@ -1,7 +1,12 @@
 # Hello to the Wiki!
+- [Navigation](Navigation.md)
 
-The Navigation Tab is here:
-[Navigation](Navigation)
+
+
+
+
+
+Credits by Michatec
 
 
 
